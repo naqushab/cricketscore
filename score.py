@@ -1,4 +1,4 @@
-import requests #pip instaall requests //to install requests module
+import requests #pip install requests //to install requests module
 import re
 import os
 from time import sleep
