@@ -1,3 +1,5 @@
 # cricketscore
-Console notifications for cricket scores updating after 20 seconds.
-Requires Python 2.7 with 'requests' module.
+Notifications for cricket scores updating after specified seconds.
+1. Console Mode
+2. Notification Bubble in Windows
+3. Growl Mode for Exclusive Nortifications
